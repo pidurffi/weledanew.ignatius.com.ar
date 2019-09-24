@@ -1,0 +1,1 @@
+Hola, este es un mail en modo texto

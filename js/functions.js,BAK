@@ -1,0 +1,35 @@
+$(document).ready(function(){
+
+    $(document).on('click', '.mobile-nav-button', function(e) {
+      $('body').toggleClass('mobile-nav-active');
+      $('.mobile-nav-button').toggleClass('fa-times fa-bars');
+      $('header').toggleClass('header-mobile-active');
+    });
+    
+    $('.fito-home__formulas-list li .mas-informacion i').on('click', function(){
+        event.preventDefault();
+        $(this).closest('li').removeClass('--active'); 
+    });
+    
+    $('.fito-home__formulas-list li > li, .fito-home__formulas-list li > span').on('click', function(){
+        $(this).closest('.fito-home__formulas-list-wrapper').find('li').removeClass('--active');
+        $(this).closest('li').toggleClass('--active');
+    });
+    
+    $("#fito-slider-carousel").owlCarousel({
+        items: 1,
+        loop: true,
+        autoHeight: true,
+        nav: true,
+        navText: ["<i class='left'></i>","<i class='right'></i>"]
+    });
+    
+    $("#table-slider-carousel").owlCarousel({
+        items: 1,
+        loop: true,
+        autoHeight: true,
+        nav: true,
+        navText: ["<i class='left'></i>","<i class='right'></i>"]
+    });
+    
+});

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class.MenuSimpleLevel.php" server="74.52.150.18//public_html/" local="128727216160195455" remote="128772000600000000" />
+<file name="class.Db.php" server="74.52.150.18//public_html/" local="128687242775545000" remote="128772000000000000" />
+<file name="class.Db_Mysql.php" server="74.52.150.18//public_html/" local="128687242771951250" remote="128772000000000000" />
+<file name="class.Entity.php" server="74.52.150.18//public_html/" local="128687242769451250" remote="128772000000000000" />
+<file name="class.EntityManager.php" server="74.52.150.18//public_html/" local="128717546868866224" remote="128772000000000000" />
+<file name="class.FatalErrorHandler.php" server="74.52.150.18//public_html/" local="128727216160195455" remote="128772000000000000" />
+<file name="class.Field.php" server="74.52.150.18//public_html/" local="128717546869647474" remote="128772000000000000" />
+<file name="class.FieldComplexDirectReference.php" server="74.52.150.18//public_html/" local="128717546867147474" remote="128772000000000000" />
+<file name="class.FieldDirectReference.php" server="74.52.150.18//public_html/" local="128717546867928724" remote="128772000000000000" />
+<file name="class.FieldFile.php" server="74.52.150.18//public_html/" local="128717546869491224" remote="128772000000000000" />
+<file name="class.FieldHTMLArea.php" server="74.52.150.18//public_html/" local="128717546868084974" remote="128772000000000000" />
+<file name="class.FieldImageEpigraph.php" server="74.52.150.18//public_html/" local="128717546868241224" remote="128772000000000000" />
+<file name="class.FieldInteger.php" server="74.52.150.18//public_html/" local="128687242735232500" remote="128772000000000000" />
+<file name="class.FieldVarchar.php" server="74.52.150.18//public_html/" local="128717546867616224" remote="128772000000000000" />
+<file name="class.GlobalManager.php" server="74.52.150.18//public_html/" local="128687242729451250" remote="128772000000000000" />
+<file name="class.Image.php" server="74.52.150.18//public_html/" local="128710813421942500" remote="128772000600000000" />
+<file name="class.Logueo.php" server="74.52.150.18//public_html/" local="128687242723982500" remote="128772000600000000" />
+<file name="class.Logueo_ModulosXRoles.php" server="74.52.150.18//public_html/" local="128687315328826250" remote="128772000600000000" />
+<file name="class.Menu.php" server="74.52.150.18//public_html/" local="128687242717576250" remote="128772000600000000" />
+<file name="class.MenuHarcodeadoXRoles.php" server="74.52.150.18//public_html/" local="128687242718670000" remote="128772000600000000" />
+<file name="class.Module.php" server="74.52.150.18//public_html/" local="128727216159414205" remote="128772000600000000" />
+<file name="class.ModuleABMSimple.php" server="74.52.150.18//public_html/" local="128717546869334974" remote="128772000600000000" />
+<file name="class.ModuleDynamicCss.php" server="74.52.150.18//public_html/" local="128687242705232500" remote="128772000600000000" />
+<file name="class.ModuleEntityHome.php" server="74.52.150.18//public_html/" local="128727216159570455" remote="128772000600000000" />
+<file name="class.ModuleHome.php" server="74.52.150.18//public_html/" local="128687242699920000" remote="128772000600000000" />
+<file name="class.ModuleNewsletterManager.php" server="74.52.150.18//public_html/" local="128727216159726705" remote="128772000600000000" />
+<file name="class.ModuleSessionCollection.php" server="74.52.150.18//public_html/" local="128687242695232500" remote="128772000600000000" />
+<file name="class.RequestHandler.php" server="74.52.150.18//public_html/" local="128687242694763750" remote="128772000600000000" />
+<file name="class.SessionManager.php" server="74.52.150.18//public_html/" local="128687242689607500" remote="128772000600000000" />
+<file name="class.TemplateManager.php" server="74.52.150.18//public_html/" local="128727216160351705" remote="128772000600000000" />
+</dwsync>

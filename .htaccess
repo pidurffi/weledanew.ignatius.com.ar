@@ -1,0 +1,26 @@
+# BEGIN custom php.ini PHP54
+<IfModule mod_suphp.c>
+    suPHP_ConfigPath /home/ignatius/public_html/weledanew
+</IfModule>
+# END custom php.ini
+
+
+RewriteOptions inherit
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^weleda\.com\.ar$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.weleda\.com\.ar$
+RewriteRule ^skinfoodyvos_video$ "http\:\/\/www\.weleda\.com\.ar\/skinfoodyvos_video\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^weleda\.com\.ar$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.weleda\.com\.ar$
+RewriteRule ^skinfoodyvos$ "http\:\/\/www\.weleda\.com\.ar\/skinfoodyvos_video_f\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^weleda\.com\.ar$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.weleda\.com\.ar$
+RewriteRule ^skinfood$ "http\:\/\/www\.weleda\.com\.ar\/skinfood\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^weleda\.com\.ar$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.weleda\.com\.ar$
+RewriteRule ^cuidadoparau\Ã\±as$ "http\:\/\/www\.weleda\.com\.ar\/cuidadoparau\Ã\±as\.php" [R=301,L]

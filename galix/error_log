@@ -1,0 +1,567 @@
+[25-Aug-2016 21:11:37 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:11:37 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:11:37 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:11:37 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:11:37 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[25-Aug-2016 21:11:37 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:11:37 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:11:37 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.Field.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.FieldPassword.php on line 2
+[25-Aug-2016 21:11:37 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.Field.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.FieldPassword.php on line 2
+[25-Aug-2016 21:11:37 America/Chicago] PHP Fatal error:  Class 'Field' not found in /home/weledac/public_html/galix/class.FieldPassword.php on line 7
+[25-Aug-2016 21:11:39 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:11:39 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:11:39 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:11:39 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:11:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[25-Aug-2016 21:11:39 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:11:39 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:11:39 America/Chicago] PHP Warning:  include_once(GALIX_FOLDER/class.Logueo.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.LoginUser.php on line 2
+[25-Aug-2016 21:11:39 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDER/class.Logueo.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.LoginUser.php on line 2
+[25-Aug-2016 21:11:39 America/Chicago] PHP Fatal error:  Class 'Logueo' not found in /home/weledac/public_html/galix/class.LoginUser.php on line 4
+[25-Aug-2016 21:12:07 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:12:07 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:12:07 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:12:07 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:12:07 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[25-Aug-2016 21:12:07 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:12:07 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Aug-2016 21:12:07 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.Db.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.Db_Mysql.php on line 3
+[25-Aug-2016 21:12:07 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.Db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.Db_Mysql.php on line 3
+[25-Aug-2016 21:12:07 America/Chicago] PHP Fatal error:  Class 'Db' not found in /home/weledac/public_html/galix/class.Db_Mysql.php on line 5
+[22-Oct-2016 00:21:58 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:21:59 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:21:59 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:21:59 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:21:59 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[22-Oct-2016 00:21:59 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:21:59 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:21:59 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.Db.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.Db_Mysql.php on line 3
+[22-Oct-2016 00:21:59 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.Db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.Db_Mysql.php on line 3
+[22-Oct-2016 00:21:59 America/Chicago] PHP Fatal error:  Class 'Db' not found in /home/weledac/public_html/galix/class.Db_Mysql.php on line 5
+[22-Oct-2016 00:22:17 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:22:17 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:22:17 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:22:17 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:22:17 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[22-Oct-2016 00:22:17 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:22:17 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:22:24 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:22:24 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:22:24 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:22:24 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:22:24 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[22-Oct-2016 00:22:24 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:22:24 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:22:24 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:22:24 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:22:24 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:22:24 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:22:24 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[22-Oct-2016 00:22:24 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:22:24 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:11 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:11 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:11 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:11 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:11 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[22-Oct-2016 00:24:11 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:11 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:11 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.Field.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.FieldHTMLArea.php on line 4
+[22-Oct-2016 00:24:11 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.Field.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.FieldHTMLArea.php on line 4
+[22-Oct-2016 00:24:11 America/Chicago] PHP Fatal error:  Class 'Field' not found in /home/weledac/public_html/galix/class.FieldHTMLArea.php on line 8
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.Field.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.FieldDate.php on line 2
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.Field.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.FieldDate.php on line 2
+[22-Oct-2016 00:24:14 America/Chicago] PHP Fatal error:  Class 'Field' not found in /home/weledac/public_html/galix/class.FieldDate.php on line 8
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.Field.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.FieldPassword.php on line 2
+[22-Oct-2016 00:24:14 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.Field.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.FieldPassword.php on line 2
+[22-Oct-2016 00:24:14 America/Chicago] PHP Fatal error:  Class 'Field' not found in /home/weledac/public_html/galix/class.FieldPassword.php on line 7
+[22-Oct-2016 00:24:22 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:22 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:22 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:22 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:22 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[22-Oct-2016 00:24:22 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:22 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:22 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldVarchar.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.FieldNumber.php on line 2
+[22-Oct-2016 00:24:22 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldVarchar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.FieldNumber.php on line 2
+[22-Oct-2016 00:24:22 America/Chicago] PHP Fatal error:  Class 'FieldVarchar' not found in /home/weledac/public_html/galix/class.FieldNumber.php on line 4
+[22-Oct-2016 00:24:36 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:36 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:36 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:36 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:36 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[22-Oct-2016 00:24:36 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:36 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:57 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:57 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:57 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:57 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:57 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[22-Oct-2016 00:24:57 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:57 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:24:57 America/Chicago] PHP Warning:  include_once(GALIX_FOLDER/class.Module.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.ModuleSessionCollection.php on line 3
+[22-Oct-2016 00:24:57 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDER/class.Module.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.ModuleSessionCollection.php on line 3
+[22-Oct-2016 00:24:57 America/Chicago] PHP Fatal error:  Class 'Module' not found in /home/weledac/public_html/galix/class.ModuleSessionCollection.php on line 5
+[22-Oct-2016 00:41:42 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:41:42 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:41:42 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:41:42 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:41:42 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[22-Oct-2016 00:41:42 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:41:42 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldVarchar.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 2
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldVarchar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 2
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldDirectReference.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 3
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldDirectReference.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 3
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldHTMLArea.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 4
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldHTMLArea.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 4
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldImageEpigraph.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 5
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldImageEpigraph.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 5
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldNumber.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 6
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldNumber.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 6
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldFile.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 7
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldFile.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 7
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldComplexDirectReference.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 8
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldComplexDirectReference.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 8
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldPassword.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 9
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldPassword.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 9
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldBoolean.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 10
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldBoolean.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 10
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldDate.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 11
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldDate.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 11
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldTimestamp.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 12
+[22-Oct-2016 00:41:52 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldTimestamp.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 12
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldVarchar.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 2
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldVarchar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 2
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldDirectReference.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 3
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldDirectReference.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 3
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldHTMLArea.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 4
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldHTMLArea.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 4
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldImageEpigraph.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 5
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldImageEpigraph.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 5
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldNumber.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 6
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldNumber.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 6
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldFile.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 7
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldFile.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 7
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldComplexDirectReference.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 8
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldComplexDirectReference.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 8
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldPassword.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 9
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldPassword.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 9
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldBoolean.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 10
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldBoolean.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 10
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldDate.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 11
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldDate.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 11
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once(GALIX_FOLDERclass.FieldTimestamp.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/weledac/public_html/galix/class.EntityManager.php on line 12
+[22-Oct-2016 00:42:47 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'GALIX_FOLDERclass.FieldTimestamp.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weledac/public_html/galix/class.EntityManager.php on line 12

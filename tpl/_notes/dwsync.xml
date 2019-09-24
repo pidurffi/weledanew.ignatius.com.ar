@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="tpl.front_template_arriba.php" server="74.52.150.18//public_html/" local="128774510286093750" remote="128774365800000000" />
+<file name="tpl.admin_global_arriba.php" server="74.52.150.18//public_html/" local="128772153061250000" remote="128772015000000000" />
+<file name="tpl.admin_familia_AM.php" server="74.52.150.18//public_html/" local="128772166073437500" remote="128772021600000000" />
+<file name="tpl.admin_familia_lista.php" server="74.52.150.18//public_html/" local="128774536948125000" remote="128774398200000000" />
+<file name="tpl.admin_global_abajo.php" server="74.52.150.18//public_html/" local="128711438897968750" remote="128772015000000000" />
+<file name="tpl.admin_home.php" server="74.52.150.18//public_html/" local="128687248408982500" remote="128772015000000000" />
+<file name="tpl.admin_home_edit.php" server="74.52.150.18//public_html/" local="128772165102343750" remote="128772021000000000" />
+<file name="tpl.admin_linea_AM.php" server="74.52.150.18//public_html/" local="128772166874062500" remote="128772022800000000" />
+<file name="tpl.admin_linea_lista.php" server="74.52.150.18//public_html/" local="128774537076093750" remote="128774398200000000" />
+<file name="tpl.admin_logueo.php" server="74.52.150.18//public_html/" local="128687248397732500" remote="128772015000000000" />
+<file name="tpl.admin_newsletter_AM.php" server="74.52.150.18//public_html/" local="128722920817187500" remote="128772015000000000" />
+<file name="tpl.admin_newsletter_lista.php" server="74.52.150.18//public_html/" local="128774537157343750" remote="128774397600000000" />
+<file name="tpl.admin_newsletter_mail_selection.php" server="74.52.150.18//public_html/" local="128722920817500000" remote="128772015000000000" />
+<file name="tpl.admin_newsletter_mail_sending.php" server="74.52.150.18//public_html/" local="128722920817187500" remote="128772015000000000" />
+<file name="tpl.admin_newsletter_template.php" server="74.52.150.18//public_html/" local="128722920817187500" remote="128772015000000000" />
+<file name="tpl.admin_noticias_AM.php" server="74.52.150.18//public_html/" local="128772167212187500" remote="128772022800000000" />
+<file name="tpl.admin_noticias_lista.php" server="74.52.150.18//public_html/" local="128774537312343750" remote="128774397600000000" />
+<file name="tpl.admin_producto_AM.php" server="74.52.150.18//public_html/" local="128772163756406250" remote="128772019200000000" />
+<file name="tpl.admin_producto_lista.php" server="74.52.150.18//public_html/" local="128772160778750000" remote="128772016800000000" />
+<file name="tpl.admin_pto_venta_AM.php" server="74.52.150.18//public_html/" local="128687248391638750" remote="128772015000000000" />
+<file name="tpl.admin_pto_venta_lista.php" server="74.52.150.18//public_html/" local="128772160778906250" remote="128772016800000000" />
+<file name="tpl.admin_region_AM.php" server="74.52.150.18//public_html/" local="128687248385857500" remote="128772015000000000" />
+<file name="tpl.admin_region_lista.php" server="74.52.150.18//public_html/" local="128774536752031250" remote="128774397600000000" />
+<file name="tpl.admin_subregion_AM.php" server="74.52.150.18//public_html/" local="128687327418357500" remote="128772015000000000" />
+<file name="tpl.admin_subregion_lista.php" server="74.52.150.18//public_html/" local="128774537377187500" remote="128774397600000000" />
+<file name="tpl.error.php" server="74.52.150.18//public_html/" local="128687248374451250" remote="128772015000000000" />
+<file name="tpl.front_carrito.php" server="74.52.150.18//public_html/" local="128687248368045000" remote="128772015000000000" />
+<file name="tpl.front_cliente_AM.php" server="74.52.150.18//public_html/" local="128758322479552500" remote="128772015000000000" />
+<file name="tpl.front_columna_izquierda.php" server="74.52.150.18//public_html/" local="128687248367732500" remote="128772015000000000" />
+<file name="tpl.front_destacado_col_izq_linea.php" server="74.52.150.18//public_html/" local="128774518029687500" remote="128774373600000000" />
+<file name="tpl.front_familia.php" server="74.52.150.18//public_html/" local="128738363360286250" remote="128772015000000000" />
+<file name="tpl.front_home.php" server="74.52.150.18//public_html/" local="128772136147187500" remote="128772015000000000" />
+<file name="tpl.front_linea.php" server="74.52.150.18//public_html/" local="128774513311562500" remote="128774368800000000" />
+<file name="tpl.front_noticia.php" server="74.52.150.18//public_html/" local="128750333219218750" remote="128772015000000000" />
+<file name="tpl.front_noticias.php" server="74.52.150.18//public_html/" local="128750360433437500" remote="128772015000000000" />
+<file name="tpl.front_producto.php" server="74.52.150.18//public_html/" local="128738367141380000" remote="128772015000000000" />
+<file name="tpl.front_productos.php" server="74.52.150.18//public_html/" local="128759928368771250" remote="128772015000000000" />
+<file name="tpl.front_puntos_venta_1.php" server="74.52.150.18//public_html/" local="128764283860248750" remote="128772015600000000" />
+<file name="tpl.front_puntos_venta_2.php" server="74.52.150.18//public_html/" local="128750316495781250" remote="128772015600000000" />
+<file name="tpl.front_puntos_venta_3.php" server="74.52.150.18//public_html/" local="128750316496250000" remote="128772015600000000" />
+<file name="tpl.front_template_abajo.php" server="74.52.150.18//public_html/" local="128774490045781250" remote="128774346000000000" />
+</dwsync>

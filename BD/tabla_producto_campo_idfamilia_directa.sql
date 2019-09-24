@@ -1,0 +1,1 @@
+ALTER TABLE `producto` CHANGE `id_familia` `id_familia_directa` INT( 11 ) NOT NULL DEFAULT '0'

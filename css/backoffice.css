@@ -1,0 +1,290 @@
+/* CSS Document */
+.clearfix:after {
+    content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+}
+
+
+.clearfix {display: inline-table;}
+
+/* Hides from IE-mac \*/
+* html .clearfix {height: 1%;}
+.clearfix {display: block;}
+/* End hide from IE-mac */
+
+body {
+	margin:0;
+	padding-top:21px;
+	background:url('../imagenes/estructura/fdo_body.jpg');
+	background-repeat:repeat-x;
+	font-family:Tahoma, Verdana, Arial;
+	font-size: 11px;
+
+	}
+
+img {border:none;}
+
+h4 {
+	margin:0 0 10px 0;
+	font-family:Tahoma, Verdana, Arial;
+	font-size:14px;
+	color:#FF6600;
+	}
+	
+div#contenedor {
+	padding:0 8px 0 8px;
+	margin:auto;
+	width:756px;widt\h:740px;
+	background:url('../admin/imagenes/sombra_cuerpo.jpg');
+	}	
+	
+div#encabezado {
+	margin:auto;
+	width:756px;
+	height:148px;
+	background:url('../admin/imagenes/encabezado.jpg');
+	}
+	
+div#animacion {
+	width:714px;
+	height:106px;
+	}		
+	
+div#caja_cuerpo {
+	padding:0 8px 0 8px;
+	width:740px;widt\h:724px;
+	background:url('../imagenes/estructura/fdo_caja_cuerpo_sincolumna.jpg');
+	}	
+	
+div#cuerpo {
+	padding:0 5px 0 5px;
+	width:724px;widt\h:714px;
+	}	
+	
+div#contenido {
+	padding:10px 20px 0 10px;
+	float:left;
+	width:504px;widt\h:474px;
+	}
+		
+div#contenido h2 {
+	margin:20px 0 0 0;
+	font-family:georgia;
+	font-size:18px;
+	color:#88dd54;
+	}		
+
+div#pie {
+	margin:auto;
+	width:756px;
+	height:38px;
+	background:url('../admin/imagenes/fdo_pie.jpg');
+	
+	}	
+	
+div.tit_contenido h3 {display:none;}
+
+div.tit_contenido.inicio {
+	width:213px;
+	height:18px;
+	background:url('./imagenes/contenido/tit_contenido.jpg');
+	}
+	
+div.tit_contenido.bienvenidos {
+	width:141px;
+	height:15px;
+	background:url('./imagenes/contenido/tit_bienvenidos.jpg');
+	}
+
+	
+/*FICHA*/
+div#contenido_backoffice {
+	padding:4px 20px 20px 20px;
+	width:674px;widh\t:714px;
+	}
+	
+div#contenido_ficha h1 {
+	padding:0 0 0 41px;
+	margin:0;
+	height:30px;
+	font-family:georgia;
+	font-size:18px;
+	color:#88dd54;
+	background-image:url('./imagenes/contenido/bullet_contenido_ficha.jpg');
+	background-repeat:no-repeat;
+	}	
+	
+	
+	
+/*TABLA*/
+	
+table {	
+	width: 100%;
+	text-align: center;
+	border-spacing: 0px;
+	border-collapse: collapse;
+	}
+	
+table .lefted {text-align: left;}
+table img  { vertical-align: middle }
+
+table th {
+	height: 30px;
+	font-size: 10px;
+/*	background-color: #ffffff;*/
+	background-color: #999;
+	padding: 4px;
+	border: 1px #FFFFFF solid;
+/*	color: #827c4a;*/
+	color: #ffffff;
+	font-weight: bold;	
+} 
+table th a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+table th.borrar span {
+	padding:2px;
+	background-color:#FF0000;
+	color: #FFFFFF;
+}
+
+/*table #th1 {width: 60%;}
+table #th2 {width: 12%;}
+table #th3 {width: 16%;}
+table #th4 {width: 12%;}
+*/
+table tr.on {background: #eee;}
+table tr.delete {background: #fcc;}
+
+table td {
+	padding: 4px;
+	background-color:#f3f0f0;
+	border: 1px #FFFFFF solid;
+}
+
+table td a { color: #000080; text-decoration: none;}
+table td a:visited { color:#000080; text-decoration: none; }
+table td a:hover { color:#827c4a; text-decoration: underline; }
+
+/*table tr.impar {background-color:#f4f1de;}
+table tr.par {background-color:#f3f3f3;}*/
+table tr.impar {background-color:#d2dfe1;}
+table tr.par {background-color:#edf2f3;}
+
+/*MENU*/
+div.menu {
+	margin-bottom:10px;
+	width: 690px;
+	}
+
+div.menu ul {
+	margin:0;
+	padding:0;
+	text-decoration:none;
+	list-style-type:none;
+}
+div.menu ul a {
+	color:#444444;
+	text-decoration:underline;
+	}
+div.menu ul a:visited {
+	color:#444444;
+}
+div.menu ul a:hover {
+	color:#444444; text-decoration: underline;
+}
+div.menu ul li {
+	display:inline;
+}
+
+div.enlace {margin:0 0 20px 0;}
+
+div.enlace_nuevo span a {
+	color:#FFFFFF;
+}
+
+div.enlace_nuevo span {
+	padding:2px;
+	background-color:#003399;
+}
+
+/* LOGIN */
+div#login {
+	margin:50px 0 50px 177px;
+	width:320px;
+	height:140px;
+	border: solid 1px #c1d9f5;
+	}
+	
+div#login_imagen {
+	float:left;
+	width:140px;
+	height:140px;
+	background-image:url('./imagenes/estructura/login.jpg');
+	}
+	
+div#login_campos {
+	float:left;
+	padding:20px 0 0 10px;
+	width:180px;widt\h:170px;
+	height:140px;widt\t:120px;
+	}
+	
+div.linea_formulario {margin:0 0 6px 0;}
+
+div.anio input {width:40px;}
+
+div.bloque_2 input {width:250px;}
+
+
+/*Linea_1
+Es la linea que incluye 3 campos de 224px de ancho cada uno
+*/
+div.linea_1 {
+	padding:0 0 10px 0;
+}
+
+div.bloque_1 {
+	float:left;
+	width:224px;
+	height:40px;
+	}
+/*bloque_2
+Son 2 campos de campos de 336px de ancho cada uno
+*/	
+div.bloque_2 {
+	float:left;
+/*	width:336px;*/
+	
+	}
+
+label {
+	padding:0 0 2px 0;
+	display:block;
+	}
+
+
+/*ABM DE IMAGENES */	
+div.linea_imagenes {}
+
+div.thumb_imagenes {
+	float:left;
+	width:65px;
+	height:74px;
+	background-color:#cccccc;
+	}
+	
+div.bloque_imagenes {
+	padding:34px 0 0 10px;
+	float:left;
+	height:40px;heigh\t:74;
+	}
+	
+div.bloque_imagenes input {width:220px;}
+
+div.linea_imagenes div.boton {padding:49px 0 0 2px;float:left;height:25px;width:110px;}

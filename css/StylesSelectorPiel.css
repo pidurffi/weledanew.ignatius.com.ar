@@ -1,0 +1,67 @@
+@font-face {
+	font-family: "neo-sans-normal";	
+	src: local("?"),
+		url("../fonts/neosansweleda-rg.ttf") format("truetype"),
+	 	url("../fonts/neosansweleda-rg.eot");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "neo-sans-medium";
+	src: local("?"),
+		url("../fonts/neosansweleda-md.ttf") format("truetype"),
+	 	url("../fonts/neosansweleda-md.eot");
+	font-weight: normal;
+	font-style: normal;
+}
+
+Body{
+	font-family: "neo-sans-medium", Arial, Helvetica, Sans-Serif;
+	color: #7b7b7b;
+}
+h1{		
+	color: #70484d;
+	font-size: 16px;
+}
+h2{
+	font-size: 12px;
+}
+h3{
+	font-size: 16px;
+	color: #E24B4B;
+	margin-top: 2px;
+	padding-top: 2px;
+}
+h4{
+	margin-bottom: 0px;
+	font-size: 14px;
+	color: #E24B4B;
+}
+p{
+	margin-bottom: 2px;
+	padding-bottom: 2px;
+	font-size: 12px;
+}
+td{
+	width: 150px;
+	padding-left: 10px;
+	padding-right: 10px;
+	vertical-align: text-top;
+}
+.Productos{
+	
+}
+.Raya{
+	border-right: 2px solid #E24B4B;
+}
+.EspacioSuperior{
+	padding-top:5px;
+}
+.ImagenProducto{
+	height: 110px;
+	display: block;
+	margin: auto;
+}
+a:link {
+    text-decoration: none;
+}

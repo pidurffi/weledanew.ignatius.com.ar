@@ -1,0 +1,11 @@
+Al correr el script:
+IPN_Notificacion.PHP
+
+El script se bajó de http://www.dineromail.com/ejemplos/EjemploIPN_Notificacion-PHP.zip
+
+
+[03-Feb-2011 14:55:21] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/ignati01/public_html/carrito/IPN_Notificacion.php:21
+Stack trace:
+#0 /home/ignati01/public_html/carrito/IPN_Notificacion.php(21): SimpleXMLElement->__construct('')
+#1 {main}
+  thrown in /home/ignati01/public_html/carrito/IPN_Notificacion.php on line 21
